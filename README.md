@@ -1,2 +1,2 @@
-Bidirectional-Search-
+Bidirectional-Search
 =====================
