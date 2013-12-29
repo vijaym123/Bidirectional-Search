@@ -1,4 +1,4 @@
-bidirectionalSearch
+Bidirectional Search
 ===================
 
 The code for "A Bidirectional Search Algorithm in Power Law Networks"
